@@ -1,0 +1,5 @@
+class News{
+
+}
+
+export {News};
